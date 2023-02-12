@@ -1,0 +1,22 @@
+D:\cs proje\2 - aim training\2 - aim training\bin\Debug\2 - aim training.exe.config
+D:\cs proje\2 - aim training\2 - aim training\bin\Debug\2 - aim training.exe
+D:\cs proje\2 - aim training\2 - aim training\bin\Debug\2 - aim training.pdb
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\2 - aim training.csproj.AssemblyReference.cache
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\_2___aim_training.Form1.resources
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\_2___aim_training.Properties.Resources.resources
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\2 - aim training.csproj.GenerateResource.cache
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\2 - aim training.csproj.CoreCompileInputs.cache
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\2 - aim training.exe
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\2 - aim training.pdb
+D:\cs proje\2 - aim training\2 - aim training\obj\Debug\_2___aim_training.Form2.resources
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\bin\Debug\2 - aim training.exe.config
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\bin\Debug\2 - aim training.exe
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\bin\Debug\2 - aim training.pdb
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\2 - aim training.csproj.AssemblyReference.cache
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\_2___aim_training.Form1.resources
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\_2___aim_training.Form2.resources
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\_2___aim_training.Properties.Resources.resources
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\2 - aim training.csproj.GenerateResource.cache
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\2 - aim training.csproj.CoreCompileInputs.cache
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\2 - aim training.exe
+C:\Users\arche\OneDrive\Desktop\2 - aim training\2 - aim training\obj\Debug\2 - aim training.pdb
