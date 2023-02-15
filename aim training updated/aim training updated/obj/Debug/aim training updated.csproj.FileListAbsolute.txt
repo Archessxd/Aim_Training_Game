@@ -1,0 +1,11 @@
+D:\cs proje\aim training updated\aim training updated\bin\Debug\aim training updated.exe.config
+D:\cs proje\aim training updated\aim training updated\bin\Debug\aim training updated.exe
+D:\cs proje\aim training updated\aim training updated\bin\Debug\aim training updated.pdb
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim training updated.csproj.AssemblyReference.cache
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim_training_updated.Form1.resources
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim_training_updated.Properties.Resources.resources
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim training updated.csproj.GenerateResource.cache
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim training updated.csproj.CoreCompileInputs.cache
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim training updated.exe
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim training updated.pdb
+D:\cs proje\aim training updated\aim training updated\obj\Debug\aim_training_updated.Form2.resources
